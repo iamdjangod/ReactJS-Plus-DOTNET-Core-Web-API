@@ -6,4 +6,6 @@ You can clone it and run it on your machine.
 
 # run the project
 cd contact_list_app
+
+
 dotnet run
